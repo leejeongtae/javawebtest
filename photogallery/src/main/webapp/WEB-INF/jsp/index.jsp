@@ -59,7 +59,11 @@
     </table>
     <a href="add.action">Add</a>
 </div>
+<<<<<<< HEAD
 <form id ="idform" style="display: none;">
+=======
+<form id="idform" style="display: none;">
+>>>>>>> b55cd1588b6125c2cb8c42e805a2fbbc1f9312ba
     <input name="id">
 </form>
 <script>
